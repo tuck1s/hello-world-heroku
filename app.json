@@ -1,0 +1,6 @@
+{
+  "name": "Hello World in Heroku / PHP",
+  "description": "Barebones app to demo minimum config needed",
+  "repository": "https://github.com/tuck1s/hello-world-heroku",
+  "keywords": ["PHP"]
+}
